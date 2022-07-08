@@ -1,0 +1,13 @@
+name = input("Enter your name: ")
+age = int(input("Enter your age: "))
+color = input("Enter your favorite color: ")
+movie = input("Enter your favorite movie: ")
+number = int(input("Enter your mobile number: "))
+motto = input("Enter your motto in life: ")
+
+print("Name:" , name)
+print("Age:" , age)
+print("Favorite color:" , color)
+print("Favorite movie:", movie)
+print("Mobile number: " + str(number))
+print("Motto in life: " + motto)
